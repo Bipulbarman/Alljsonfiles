@@ -24,5 +24,12 @@
     "appId": "8",
     "version": "2.35.0",
     "updateNotes": "The Aubbay Surfers World Tour continues in sunny Barcelona! Explore the vibrant city streets and surf on top of the famous Gaudi-inspired buildings."
-  }
+  },
+  {
+    "id": "update5",
+    "appId": "9",
+    "version": "1.205.1",
+    "updateDate": "2026-07-29",
+    "updateNotes": "We've made some sweet updates! Enjoy our new levels, improved performance, and bug fixes to make your Candy Crush experience even better."
+  },
 ]
